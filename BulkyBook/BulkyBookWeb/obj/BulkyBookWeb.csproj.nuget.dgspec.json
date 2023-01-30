@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\TRUENAS\\twinsley\\repos\\ZSC_Classes\\Server-Side Scripting\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "\\\\TRUENAS\\twinsley\\repos\\ZSC_Classes\\Server-Side Scripting\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
+    "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\TRUENAS\\twinsley\\repos\\ZSC_Classes\\Server-Side Scripting\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "projectName": "BulkyBookWeb",
-        "projectPath": "\\\\TRUENAS\\twinsley\\repos\\ZSC_Classes\\Server-Side Scripting\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectPath": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\carpe\\.nuget\\packages\\",
-        "outputPath": "\\\\TRUENAS\\twinsley\\repos\\ZSC_Classes\\Server-Side Scripting\\BulkyBook\\BulkyBookWeb\\obj\\",
+        "outputPath": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,6 +67,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
             }
           },
           "imports": [
