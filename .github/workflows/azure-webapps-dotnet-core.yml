@@ -93,9 +93,9 @@ jobs:
         uses: warrenbrasil/dotnet-migrations@v2
         with:
            # The path for the project that holds the migrations folder
-           project-path: '.'
+           project-path: 'BulkyBookWeb/BulkyBookWeb.csproj'
            # The startup project of the application
-           startup-project-path: BulkyBookWeb.sln
+           startup-project-path: 'BulkyBookWeb/BulkyBookWeb.csproj'
             # The DbContext class name
            context: ApplicationDbContext
             # The connection string for the database to apply migrations
