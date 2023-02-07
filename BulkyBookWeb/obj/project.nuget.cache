@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Om3n00PgxzYEhAq7qc5TPmk1k9sYQG0T3lypmn6nDBsI2k0OOhDOMVarwM4w0a8CCb0ojFZXTldv912+HfvHA==",
+  "dgSpecHash": "w7qSzc5h+FcdzzdbYi/oGctOqBJCyJlHn3Ge1ogqQeBmDPZtK3gEqeObsDVYlYtlBAOoizHHL9wktjvWiQ4f2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\carpe\\Source\\Repos\\twinsley\\BooksWebsiteProject\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carpe\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
