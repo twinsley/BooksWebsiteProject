@@ -86,3 +86,17 @@ jobs:
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+          
+      - name: Warren - .NET Migrations
+        # You may pin to the exact commit or the version.
+        # uses: warrenbrasil/dotnet-migrations@1eb2c8b44f8acb2dffe320aef55ae527f460247c
+        uses: warrenbrasil/dotnet-migrations@v2
+        with:
+           # The path for the project that holds the migrations folder
+           project-path: ./BulkyBookWeb
+           # The startup project of the application
+           startup-project-path: ./BulkyBook.sln
+            # The DbContext class name
+           context: ApplicationDbContext
+            # The connection string for the database to apply migrations
+           connection: ${{ secrets.AZURE_PROD_CONNECTION_STRING }}
