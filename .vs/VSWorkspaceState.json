@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BulkyBook",
-    "\\BulkyBook\\BulkyBookWeb"
+    "\\BulkyBookWeb",
+    "\\BulkyBookWeb\\Views",
+    "\\BulkyBookWeb\\Views\\Category"
   ],
+  "SelectedNode": "\\BulkyBookWeb\\Views\\Category\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
