@@ -1,0 +1,17 @@
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.AssemblyInfo.cs
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.deps.json
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.runtimeconfig.json
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.csproj.CopyComplete
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\refint\BulkyBook.DataAccess.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\BulkyBook.DataAccess.genruntimeconfig.cache
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.DataAccess\obj\Debug\net6.0\ref\BulkyBook.DataAccess.dll

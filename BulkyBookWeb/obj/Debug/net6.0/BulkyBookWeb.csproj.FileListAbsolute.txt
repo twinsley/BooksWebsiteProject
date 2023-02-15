@@ -1533,3 +1533,7 @@ C:\Users\carpe\Source\Repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\
 C:\Users\carpe\Source\Repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
 C:\Users\carpe\Source\Repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\carpe\Source\Repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
