@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NzCt9Xt2k2P22mc9wYC91QqBkfIZlFvHGJdCCi3CM8oYyvTCvAV4Y5R+cTRf6s5DiElrQ8+CQaDa8Km9yRbqtA==",
+  "dgSpecHash": "UZztLMlYZI2pW78mLfdbG4Yfm9Ptogfy4f8drMeGwUn2rjEkN5BOs0VWojMggga5zGr6Te+GvofdNiGW+fai/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -59,7 +59,6 @@
     "C:\\Users\\carpe\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\system.runtime.caching\\5.0.0\\system.runtime.caching.5.0.0.nupkg.sha512",
-    "C:\\Users\\carpe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
