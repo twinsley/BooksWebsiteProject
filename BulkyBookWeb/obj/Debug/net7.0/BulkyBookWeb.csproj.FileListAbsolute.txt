@@ -576,3 +576,5 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.pdb
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net7.0\ref\BulkyBookWeb.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
