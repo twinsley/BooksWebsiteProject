@@ -22,8 +22,6 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -110,14 +108,11 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
-C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -131,7 +126,6 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
@@ -578,3 +572,11 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\obj\Debug\net7.0\ref\BulkyBookWeb.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
