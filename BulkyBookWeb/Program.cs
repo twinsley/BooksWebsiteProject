@@ -35,6 +35,7 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication();
 
+SeedDatabase();
 app.UseAuthorization();
 app.MapRazorPages();
 app.MapControllerRoute(
