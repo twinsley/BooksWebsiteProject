@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p6hJ95PQA79g4gNiOHpiAjqQdXzI8/Hi6ZRF8VykUgpbaALHgO4ap0MAos187rPoCRT8rKKiRmzjCks2vGI+xw==",
+  "dgSpecHash": "qLcEZHjRJGzHMR4bpOYlogBJcUQGDm8GkvX9EKh36xUJuuh/d3Zi7wPwYb0V7iRvOpqLDaJ4b8+zXNGAOXEjFQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.3.nupkg.sha512",
+    "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.3\\microsoft.aspnetcore.identity.ui.7.0.3.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
@@ -52,7 +53,8 @@
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
-    "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.3\\microsoft.extensions.fileproviders.embedded.7.0.3.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.identity.core\\7.0.3\\microsoft.extensions.identity.core.7.0.3.nupkg.sha512",
     "C:\\Users\\carpe\\.nuget\\packages\\microsoft.extensions.identity.stores\\7.0.3\\microsoft.extensions.identity.stores.7.0.3.nupkg.sha512",
