@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\products\\7f39a9ba-8dfa-408f-a1d3-3d299f97237e.jfif"
     },
     {
+      "Id": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBookWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
