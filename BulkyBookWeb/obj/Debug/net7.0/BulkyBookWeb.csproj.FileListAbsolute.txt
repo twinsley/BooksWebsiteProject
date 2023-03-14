@@ -582,3 +582,5 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.Utility.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBookWeb\bin\Debug\net7.0\Stripe.net.dll

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BulkyBook.DataAccess.DbInitializer
 {
-    public interface IDbInitializer
-    {
-        void Initialize();
-    }
+	public interface IDbInitializer
+	{
+		void Initialize();
+	}
 }

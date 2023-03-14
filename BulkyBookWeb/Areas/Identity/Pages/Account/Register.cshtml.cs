@@ -1,19 +1,26 @@
-﻿using Azure.Core;
+﻿// Licensed to the .NET Foundation under one or more agreements.
+// The .NET Foundation licenses this file to you under the MIT license.
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Text.Encodings.Web;
+using System.Threading;
+using System.Threading.Tasks;
 using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
 using BulkyBook.Utility;
 using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.WebUtilities;
-using System.ComponentModel.DataAnnotations;
-using System.Security.Policy;
-using System.Text.Encodings.Web;
-using System.Text;
+using Microsoft.Extensions.Logging;
 
 namespace BulkyBookWeb.Areas.Identity.Pages.Account
 {
@@ -118,7 +125,7 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
 
         public async Task OnGetAsync(string returnUrl = null)
         {
-
+            
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             Input = new InputModel()
@@ -152,8 +159,7 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
                 user.PostalCode = Input.PostalCode;
                 user.Name = Input.Name;
                 user.PhoneNumber = Input.PhoneNumber;
-                if (Input.Role == SD.Role_User_Comp)
-                {
+                if (Input.Role == SD.Role_User_Comp) {
                     user.CompanyId = Input.CompanyId;
                 }
                 var result = await _userManager.CreateAsync(user, Input.Password);
@@ -162,8 +168,7 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
                 {
                     _logger.LogInformation("User created a new account with password.");
 
-                    if (Input.Role == null)
-                    {
+                    if (Input.Role == null) {
                         await _userManager.AddToRoleAsync(user, SD.Role_User_Indi);
                     }
                     else
@@ -196,7 +201,7 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
                         else
                         {
                             await _signInManager.SignInAsync(user, isPersistent: false);
-
+                            
                         }
                         return LocalRedirect(returnUrl);
                     }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kyCZGL9FssKL3LL5idmfVhJxm0sBmdICKAy6776Pi9o=",
+  "Hash": "mFYpJ/iv/l/h1jIcOuBz7oz+ykkxWJjb/Cao4lZNqiQ=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBookWeb\\wwwroot\\js\\order.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBookWeb\\wwwroot\\js\\product.js",
