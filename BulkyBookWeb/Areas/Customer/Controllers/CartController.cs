@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
-/*using Stripe.Checkout;*/
+using Stripe.Checkout;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
@@ -133,22 +133,23 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
             {
                 //stripe settings 
                 var domain = "https://localhost:44300/";
-                /*var options = new SessionCreateOptions
+                var options = new SessionCreateOptions
                 {
                     PaymentMethodTypes = new List<string>
                 {
                   "card",
                 },
-                   *//* LineItems = new List<SessionLineItemOptions>(),*//*
+
+                    LineItems = new List<SessionLineItemOptions>(),
                     Mode = "payment",
                     SuccessUrl = domain + $"customer/cart/OrderConfirmation?id={ShoppingCartVM.OrderHeader.Id}",
                     CancelUrl = domain + $"customer/cart/index",
-                };*/
+                };
 
-                foreach (var item in ShoppingCartVM.ListCart)
+            foreach (var item in ShoppingCartVM.ListCart)
                 {
 
-                    /*var sessionLineItem = new SessionLineItemOptions
+                    var sessionLineItem = new SessionLineItemOptions
                     {
                         PriceData = new SessionLineItemPriceDataOptions
                         {
@@ -162,18 +163,17 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
                         },
                         Quantity = item.Count,
                     };
-                    options.LineItems.Add(sessionLineItem);*/
+                    options.LineItems.Add(sessionLineItem);
 
                 }
 
-                /*            var service = new SessionService();
-                            Session session = service.Create(options);
-                            _unitOfWork.OrderHeader.UpdateStripePaymentID(ShoppingCartVM.OrderHeader.Id, session.Id, session.PaymentIntentId);
-                            _unitOfWork.Save();
-                            Response.Headers.Add("Location", session.Url);
-                            return new StatusCodeResult(303);*/
-               // Remove below after fixing above
-                return null;
+                var service = new SessionService();
+                Session session = service.Create(options);
+                _unitOfWork.OrderHeader.UpdateStripePaymentID(ShoppingCartVM.OrderHeader.Id, session.Id, session.PaymentIntentId);
+                _unitOfWork.Save();
+                Response.Headers.Add("Location", session.Url);
+                return new StatusCodeResult(303);
+                
             }
 
             else
@@ -187,7 +187,7 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
             OrderHeader orderHeader = _unitOfWork.OrderHeader.GetFirstOrDefault(u => u.Id == id, includeProperties: "ApplicationUser");
             if (orderHeader.PaymentStatus != SD.PaymentStatusDelayedPayment)
             {
-               /* var service = new SessionService();
+                var service = new SessionService();
                 Session session = service.Get(orderHeader.SessionId);
                 //check the stripe status
                 if (session.PaymentStatus.ToLower() == "paid")
@@ -195,7 +195,7 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
                     _unitOfWork.OrderHeader.UpdateStripePaymentID(id, orderHeader.SessionId, session.PaymentIntentId);
                     _unitOfWork.OrderHeader.UpdateStatus(id, SD.StatusApproved, SD.PaymentStatusApproved);
                     _unitOfWork.Save();
-                }*/
+                }
             }
             _emailSender.SendEmailAsync(orderHeader.ApplicationUser.Email, "New Order - Bulky Book", "<p>New Order Created</p>");
             List<ShoppingCart> shoppingCarts = _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId ==
