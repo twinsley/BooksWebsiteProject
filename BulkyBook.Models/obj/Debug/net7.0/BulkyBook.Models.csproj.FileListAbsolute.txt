@@ -10,3 +10,6 @@ C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\obj\De
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\obj\Debug\net7.0\refint\BulkyBook.Models.dll
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.pdb
 C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\obj\Debug\net7.0\ref\BulkyBook.Models.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Utility.dll
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Utility.pdb
+C:\Users\carpe\source\repos\twinsley\BooksWebsiteProject\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.CopyComplete
