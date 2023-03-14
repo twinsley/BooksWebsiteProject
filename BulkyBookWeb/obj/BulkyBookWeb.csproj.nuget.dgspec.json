@@ -121,7 +121,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\carpe\\source\\repos\\twinsley\\BooksWebsiteProject\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
